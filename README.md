@@ -11,7 +11,7 @@ These instructions allow you to run a copy of the project locally on your workst
 To run the Open Transport project locally, you must first install:
 
 ```
-To be defined
+Before use, you have to take a coffee.
 
 ```
 
